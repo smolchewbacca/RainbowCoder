@@ -14,3 +14,19 @@ Blue
 Indigo
 
 Violet
+
+Colours of the rainbow in french are: 
+
+Rouge
+
+Orange
+
+Jaune
+
+Vert
+
+Bleue
+
+Indigo
+
+Violet
