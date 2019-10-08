@@ -15,7 +15,7 @@ Indigo
 
 Violet
 
-Colours of the rainbow in french are: 
+Colours of the rainbow in French are: 
 
 Rouge
 
